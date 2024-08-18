@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.E05InstallSceneBuilder">
+   <children>
+      <Button layoutX="520.0" layoutY="188.0" mnemonicParsing="false" text="Èshi?" />
+      <Button layoutX="432.0" layoutY="188.0" mnemonicParsing="false" text="Beltual," />
+      <Button layoutX="349.0" layoutY="188.0" mnemonicParsing="false" text="Besso" />
+      <Button layoutX="263.0" layoutY="188.0" mnemonicParsing="false" text="Abebe" />
+      <Circle fill="#f0ff1f" layoutX="122.0" layoutY="200.0" radius="100.0" stroke="BLACK" strokeType="INSIDE" />
+   </children>
+</AnchorPane>
